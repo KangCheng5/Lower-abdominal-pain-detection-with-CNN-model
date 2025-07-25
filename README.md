@@ -1,0 +1,1 @@
+# Lower-abdominal-pain-detection-with-CNN-model
